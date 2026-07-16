@@ -14,3 +14,9 @@ _and a lot more Projects coming in the future._
 **Is CoreInstaller open source?**
 
 _No, CoreInstaller is not open source for now, because of Security reasons._
+
+**What does CoreInstaller do, and why does it need Internet Connection?**
+
+_CoreInstaller installs all Components needed for the CoreFramework via official Releases (Official Github Releases)._
+
+_With that said, CoreInstaller does need an Stable Internet Connection for downloading the required Components & Dependencies._
