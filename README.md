@@ -1,5 +1,5 @@
 ## ISSUES & BUG REPORT
-**_If you do find an Issue with CoreInstaller, or experience issues with the CoreInstaller, please open an Issue on the Github Issues Page._**
+**_If you do find an Issue with CoreInstaller, or experience issues with the CoreInstaller, please open an [Issue on the Github Issues Page](https://github.com/yummyzzzz/CoreInstaller/issues)._**
 
 **KEEP IN MIND, THAT AN CORE-DEVELOPER MAY REACH OUT FOR DETAILED INFORMATION, CORE-DEVELOPERs WILL NEVER ASK YOU FOR YOUR PASSWORD OR CREDENTIALS, CORE-DEVELOPERs WILL ONLY ASK FOR SYSTEM SPECIFICATIONS, SUCH AS:
 Windows Architecture, Windows Edition & Version.**
