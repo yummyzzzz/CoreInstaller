@@ -1,16 +1,16 @@
 ## CoreInstaller
-**_What is CoreInstaller?_**
+**What is CoreInstaller?**
 
-**CoreInstaller is an Easy to use Installer & Repair tool for all components of the CoreFramework.**
+**_CoreInstaller is an Easy to use Installer & Repair tool for all components of the CoreFramework._**
 
-**_What is CoreFramework?_**
+**What is CoreFramework?**
 
-**CoreFramework, built by yummyzzzz, is an Framework containing a lot of useful Software, such as:**
+**_CoreFramework, built by yummyzzzz, is an Framework containing a lot of useful Software, such as:_**
 
-**[System Information retriever (CoreView)](https://github.com/yummyzzzz/CoreView).**
+**_[System Information retriever (CoreView)](https://github.com/yummyzzzz/CoreView)._**
 
-**and a lot more Projects coming in the future.**
+**_and a lot more Projects coming in the future._**
 
-**_Is CoreInstaller open source?_**
+**Is CoreInstaller open source?**
 
-**No, CoreInstaller is not open source for now, because of Security reasons.**
+**_No, CoreInstaller is not open source for now, because of Security reasons._**
