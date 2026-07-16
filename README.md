@@ -12,7 +12,7 @@ _CoreInstaller is an Easy to use Installer & Repair tool for all components of t
 
 **What is CoreFramework?**
 
-_CoreFramework, built by yummyzzzz, is an Framework containing a lot of useful Software, such as:_
+_CoreFramework, built by [yummyzzzz](https://github.com/yummyzzzz), is an Framework containing a lot of useful Software, such as:_
 
 _[System Information retriever (CoreView)](https://github.com/yummyzzzz/CoreView)._
 
