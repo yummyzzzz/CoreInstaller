@@ -5,7 +5,7 @@
 Windows Architecture, Windows Edition & Version.**
 
 ## LICENSE
-**The Entire CoreFramework is licensed under the [License](LICENSE.txt)**
+**The Entire CoreFramework is licensed under the [EULA License](LICENSE.txt)**
 
 ## COREINSTALLER - FAQ
 **What is CoreInstaller?**
