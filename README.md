@@ -1,4 +1,11 @@
-## CoreInstaller - FAQ
+## INFORMATION ABOUT COREINSTALLER
+**_If you do find an Issue with CoreInstaller, or experience issues with the CoreInstaller, please open an Issue on the Github Issues Page._**
+
+**KEEP IN MIND, THAT AN CORE-DEVELOPER MAY REACH OUT FOR DETAILED INFORMATION, CORE-DEVELOPERs WILL NEVER ASK YOU FOR YOUR PASSWORD OR CREDENTIALS, CORE-DEVELOPERs WILL ONLY ASK FOR SYSTEM SPECIFICATIONS, SUCH AS:
+Windows Architecture, Windows Edition & Version.**
+
+
+## COREINSTALLER - FAQ
 **What is CoreInstaller?**
 
 _CoreInstaller is an Easy to use Installer & Repair tool for all components of the CoreFramework._
@@ -24,8 +31,3 @@ _With that said, CoreInstaller does need an Stable Internet Connection for downl
 **Why does CoreInstaller need Administrative Rights when running?**
 
 _CoreInstaller needs Administrative Rights when running to avoid any Issues during the Installation Process._
-
-## ISSUES & BUG REPORT
-**_If you do find an Issue with CoreInstaller, or experience issues with the CoreInstaller, please open an Issue on the Github Issues Page._**
-**KEEP IN MIND, THAT AN CORE-DEVELOPER MAY REACH OUT FOR DETAILED INFORMATION, CORE-DEVELOPERs WILL NEVER ASK YOU FOR YOUR PASSWORD OR CREDENTIALS, CORE-DEVELOPERs WILL ONLY ASK FOR SYSTEM SPECIFICATIONS, SUCH AS:
-Windows Architecture, Windows Edition & Version.**
