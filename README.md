@@ -7,7 +7,6 @@
 
 CoreFramework, built by yummyzzzz, is an Framework containing a lot of useful Software, such as:
 > [System Information retriever (CoreView)](https://github.com/yummyzzzz/CoreView).
-
 > and a lot more Projects coming in the future.
 
 **_Is CoreInstaller open source?_**
