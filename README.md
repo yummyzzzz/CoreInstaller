@@ -9,6 +9,7 @@ Windows Architecture, Windows Edition & Version, Installer Version.**
 
 ## Version Information
 **CoreInstaller is not open source yet because of Security Reasons.**
+
 **CoreInstaller will always be up-to-date, meaning there won't be an option to install old builds, but you can still check the Version of the Installer by right-click the .exe > Properties > Details. This Step is also required for Bug & Issue reporting.
 
 ## COREINSTALLER - FAQ
