@@ -2,10 +2,14 @@
 **_If you do find an Issue with CoreInstaller, or experience issues with the CoreInstaller, please open an [Issue on the Github Issues Page](https://github.com/yummyzzzz/CoreInstaller/issues)._**
 
 **KEEP IN MIND, THAT AN CORE-DEVELOPER MAY REACH OUT FOR DETAILED INFORMATION, CORE-DEVELOPERs WILL NEVER ASK YOU FOR YOUR PASSWORD OR CREDENTIALS, CORE-DEVELOPERs WILL ONLY ASK FOR SYSTEM SPECIFICATIONS, SUCH AS:
-Windows Architecture, Windows Edition & Version.**
+Windows Architecture, Windows Edition & Version, Installer Version.**
 
 ## LICENSE
 **The Entire CoreFramework is licensed under the [EULA License](LICENSE.txt)**
+
+## Version Information
+**CoreInstaller is not open source yet because of Security Reasons.**
+**CoreInstaller will always be up-to-date, meaning there won't be an option to install old builds, but you can still check the Version of the Installer by right-click the .exe > Properties > Details. This Step is also required for Bug & Issue reporting.
 
 ## COREINSTALLER - FAQ
 **What is CoreInstaller?**
@@ -19,10 +23,6 @@ _CoreFramework, built by [yummyzzzz](https://github.com/yummyzzzz), is an Framew
 _[System Information retriever (CoreView)](https://github.com/yummyzzzz/CoreView)._
 
 _and a lot more Projects coming in the future._
-
-**Is CoreInstaller open source?**
-
-_No, CoreInstaller is not open source for now, because of Security reasons._
 
 **What does CoreInstaller do, and why does it need Internet Connection?**
 
